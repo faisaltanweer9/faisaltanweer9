@@ -1,7 +1,7 @@
 # Hi there, I'm Faisal Tanweer 👋
 
 ### 📱 Flutter & Mobile Application Developer | Computer Science Undergrad
-I specialize in building performant, offline-first, and user-centric mobile applications using **Flutter & Dart**. Recently engineered and published **ILm Quran** on the Google Play Store.
+I specialize in building performant, offline-first, and user-centric mobile applications using **Flutter & Dart**. Recently engineered and published **SAFH - HIFZ AND QURAN COMPANION** on the Google Play Store.
 
 ---
 
